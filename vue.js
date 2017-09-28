@@ -9,6 +9,7 @@ new Vue ({
 
   methods: {
     start: function() {
+      // testing
       this.gameStarted = true;
       this.playerHealth = 100;
       this.monsterHealth = 100;
